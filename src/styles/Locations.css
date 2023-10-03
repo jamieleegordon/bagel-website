@@ -1,0 +1,57 @@
+.locations {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  }
+
+  .locations h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: black;
+    background-color: #ae67e8 ;
+  }
+
+  .locations h3 {
+    text-align: center;
+  }
+
+  .locations h2 {
+    font-size: 25px;
+  }
+
+  .locations p {
+    font-size: 15px;
+  }
+
+  .locationList {
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    place-items: center;
+    gap: 20px; /* Add some gap between items */
+    margin: 0 auto; /* Center the grid horizontally */
+    justify-content: center; /* Center the items horizontally within the grid */
+  }
+  
+  .locationList div {
+    position: relative; /* Position the divs relative to their containers */
+  
+    /* Add a border for the divider */
+    border-bottom: 1px solid #ccc; /* You can adjust the color and style */
+  }
+  
+  /* Style the divider */
+  .locationList div::after {
+    content: ''; /* Add empty content */
+    position: absolute; /* Position the divider */
+    bottom: 0; /* Place the divider at the bottom */
+    left: 0; /* Align the divider to the left */
+    width: 100%; /* Make the divider span the full width of the container */
+    border-bottom: 1px solid #ccc; /* Style the divider (color, style, etc.) */
+  }
+  
+

@@ -1,0 +1,27 @@
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #ae67e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+  }
+  
+  .socialMedia svg {
+    color: black;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  }
+
+  #tripAdIcon {
+    width: 260px;
+    height: 100px;
+    cursor: pointer;
+  }
+  
+  .footer p {
+    color: white;
+  }
