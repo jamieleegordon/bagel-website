@@ -8,8 +8,8 @@ function Home() {
     <div className = "home" 
     style = {{backgroundImage: `url(${BagelHome})`}}>
        <div className = "headerContainer">
-        <h1> Jamie-Lee's Bagel Bakery </h1>
-        <p> BAGELS TO FIT ANY TASTE </p>
+        <h1> Jamie-Lee's Bagel Boutique </h1>
+        <p> Turn Your Day into a Bagellicious Party! </p>
         <Link to = "/menu">
           <button> ORDER NOW </button>
         </Link>

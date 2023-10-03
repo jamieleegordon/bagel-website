@@ -1,11 +1,15 @@
 export const LocationList = [
     {
-      location: "Edinburgh",
-      address: "123 Royal Mile, Edinburgh, EH1 1AA, Scotland",
+      location: "Perth",
+      address: "123 Highland Avenue, Perth, PH1 2AB, Scotland",
     },
     {
       location: "London",
       address: "123 Baker Street, London, W1U 6AA, England",
+    },
+    {
+      location: "Edinburgh",
+      address: "123 Royal Mile, Edinburgh, EH1 1AA, Scotland",
     },
     {
       location: "Belfast",
@@ -36,7 +40,7 @@ export const LocationList = [
       address: "234 Park Street, Bristol, BS1 5AA, England",
     },
     {
-      location: "Newcastle upon Tyne",
+      location: "Newcastle",
       address: "101 Grey Street, Newcastle upon Tyne, NE1 6AA, England",
     },
     {
@@ -58,10 +62,6 @@ export const LocationList = [
     {
       location: "York",
       address: "123 Shambles, York, YO1 7AA, England",
-    },
-    {
-        location: "York",
-        address: "234 Viking Way, York, YO10 5AA, England",
     },
     {
       location: "Aberdeen",
