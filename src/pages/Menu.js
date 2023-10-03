@@ -15,6 +15,7 @@ function Menu() {
                     key = {key} 
                     image = {menuItem.image} 
                     name = {menuItem.name} 
+                    description={menuItem.description}
                     price = {menuItem.price}
                 />
             })}

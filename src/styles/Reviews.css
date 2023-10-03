@@ -1,6 +1,65 @@
-.reviews {
+  .reviews {
     width: 100%;
-    min-height: 90vw;
+    height: auto;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
+  }
+  .reviews .reviewsTitle {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: black;
+    background-color: #ae67e8 ;
+  }
+  
+  .ReviewList {
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    place-items: center;
+  }
+
+  .reviews h1 {
+    background-color: #ae67e8;
+    font-size: 20px;
+  }
+  
+  /* LOCATION ITEM STYLING */
+  
+  .reviewItem {
+    border-radius: 15px;
+    width: 900px;
+    margin: 20px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    background-color: white;
+  }
+  .reviewItem:hover {
+    box-shadow: 0px 6px 30px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in;
+    cursor: pointer;
+    
+  }
+  
+  .reviewItem h1,
+  .reviewItem p {
+    margin-left: 20px;
+  }
+
+  .reviewItem h2,
+  .reviewItem h3 {
+    margin-left: 20px;
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    .ReviewList {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .ReviewList {
+      grid-template-columns: 1fr;
+    }
   }

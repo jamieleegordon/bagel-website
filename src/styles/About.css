@@ -35,3 +35,16 @@
     justify-content: center;
     transform: translateY(-40px);
   }
+
+  .about .discountDescription {
+    text-align: center;
+  }
+
+  .about .bigDesription {
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .about .description {
+    font-size: large;
+  }
