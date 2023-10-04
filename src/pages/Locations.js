@@ -2,7 +2,7 @@ import React from 'react'
 import LocationItem from '../components/LocationItem';
 import ChoppingBoard from "../assets/choppingBoard.jpg";
 import { LocationList } from '../helpers/LocationList';
-import '../styles/Locations2.css'
+import '../styles/Locations2.css';
 
 function Locations() {
   return (

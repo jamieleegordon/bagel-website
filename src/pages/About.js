@@ -1,5 +1,4 @@
 import React from 'react'
-import BagelAbout from '../assets/bagelAbout.jpg'
 import LeftBagel from '../assets/leftBagels.jpg'
 import '../styles/About2.css'
 
