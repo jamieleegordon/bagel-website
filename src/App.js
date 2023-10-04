@@ -7,6 +7,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Locations from './pages/Locations';
 import Reviews from './pages/Reviews';
+import ComingSoon from './pages/ComingSoon';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/menu" exact element={<Menu />} />
           <Route path="/locations" exact element={<Locations />} />
           <Route path="/about" exact element={<About />} />
+          <Route path="/comingsoon" exact element={<ComingSoon />} />
           <Route path="/contact" exact element={<Contact />} />
           <Route path="/reviews" exact element={<Reviews />} />
         </Routes>
@@ -31,8 +33,4 @@ function App() {
 export default App;
 
 // NOTE:
-// Create a description for all the bagels in menu list and generate the descriptions in chatgpt
-// Change location background
-// Reviews section
-// Implement an api somewhere 
- 
+ // COMING SOON TAB (locations coming soon, menu items coming soon)

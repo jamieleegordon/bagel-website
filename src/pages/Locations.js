@@ -9,7 +9,7 @@ function Locations() {
     <div className='locations'
       style = {{backgroundImage: `url(${ChoppingBoard})`}}>
         <h1 className='locationsTitle'>Our Locations</h1>
-        <h3>There are more than 30 Jamie-Lee's Bagel Bakery stores in the UK. Find locations below and enjoy our special taste </h3>
+        <h3>There are more than 30 Jamie-Lee's Bagel Boutique stores in the UK. Find locations below and enjoy our special taste </h3>
         <div className='locationList'>
             {LocationList.map((locationItem, key) => {
                 return <LocationItem 

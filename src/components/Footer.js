@@ -19,7 +19,7 @@ function Footer() {
               <img id = "tripAdIcon" src={TripAdvisorIcon} alt="TripAdvisor Rating" />
             </Link>
         </div>
-        <p>&copy; 2023 jamieleebagelbakery.com</p>
+        <p>&copy; 2023 jamieleesbagelboutique.com</p>
     </div>
   )
 }

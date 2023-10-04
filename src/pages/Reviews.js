@@ -8,7 +8,7 @@ function Reviews() {
   return (
     <div className='reviews'
     style = {{backgroundImage: `url(${ChoppingBoard})`}}>
-        <h1 className='reviewsTitle'>What people have been saying</h1>
+        <h1 className='reviewsTitle'> What people have been saying </h1>
         {ReviewList.map((reviewItem, key) => {
                 return <ReviewItem 
                     key = {key} 
