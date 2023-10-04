@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/bagel-website/static/css/main.a4779c6b.css",
+    "main.js": "/bagel-website/static/js/main.ff9c7412.js",
+    "static/media/ultimateVegan.jpg": "/bagel-website/static/media/ultimateVegan.6a108cf1f1abf8f69ee4.jpg",
+    "static/media/buffaloChicken.jpg": "/bagel-website/static/media/buffaloChicken.72a9e7fff113aa22dead.jpg",
+    "static/media/bagelHome2.jpg": "/bagel-website/static/media/bagelHome2.7e0b46c076ee49cf22d4.jpg",
+    "static/media/beefPickleMustard.jpg": "/bagel-website/static/media/beefPickleMustard.215f89fa74e6b54d4be9.jpg",
+    "static/media/advocado.png": "/bagel-website/static/media/advocado.4f411b24b1dd64ff4b66.png",
+    "static/media/chicken.jpg": "/bagel-website/static/media/chicken.73a1ff8e89ce874e5496.jpg",
+    "static/media/leftBagels.jpg": "/bagel-website/static/media/leftBagels.d13b4c7e611ca42675ef.jpg",
+    "static/media/grilledCheese.jpg": "/bagel-website/static/media/grilledCheese.3915f9a45eaa433b9bc0.jpg",
+    "static/media/vegetarian.jpg": "/bagel-website/static/media/vegetarian.dd32d00dd0bfc4202c2c.jpg",
+    "static/media/brie.jpg": "/bagel-website/static/media/brie.b8a4686c4cdd96f538c7.jpg",
+    "static/media/breakfast.jpg": "/bagel-website/static/media/breakfast.71153fa9bb9b5e966872.jpg",
+    "static/media/tunaSalad.jpg": "/bagel-website/static/media/tunaSalad.33078285766d1f72ac3b.jpg",
+    "static/media/bagelLeft.jpg": "/bagel-website/static/media/bagelLeft.e727fc367f09acbf4a49.jpg",
+    "static/media/penutbutter.jpg": "/bagel-website/static/media/penutbutter.3060408f46794efeb7fb.jpg",
+    "static/media/tripAdvisor.png": "/bagel-website/static/media/tripAdvisor.bcf0c3f4cea84d01ed29.png",
+    "static/media/salmon.jpg": "/bagel-website/static/media/salmon.630fad451883c2535f21.jpg",
+    "static/media/creamCheese.jpg": "/bagel-website/static/media/creamCheese.b13cd1b19f0c02dc3427.jpg",
+    "static/media/choppingBoard.jpg": "/bagel-website/static/media/choppingBoard.902b64739518002a2d03.jpg",
+    "static/media/hamAndCheese.jpg": "/bagel-website/static/media/hamAndCheese.1aed2ed66892cb90fed5.jpg",
+    "static/media/bagelIcon.png": "/bagel-website/static/media/bagelIcon.e0ab20b5ae5701c2eb3a.png",
+    "static/media/blt.jpg": "/bagel-website/static/media/blt.c9a923077278a6e8789c.jpg",
+    "static/media/pesto.jpg": "/bagel-website/static/media/pesto.26f54419dc421ce0c782.jpg",
+    "index.html": "/bagel-website/index.html",
+    "main.a4779c6b.css.map": "/bagel-website/static/css/main.a4779c6b.css.map",
+    "main.ff9c7412.js.map": "/bagel-website/static/js/main.ff9c7412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4779c6b.css",
+    "static/js/main.ff9c7412.js"
+  ]
+}
