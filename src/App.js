@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/bagel-website" exact element={<Home />} />
           <Route path="/menu" exact element={<Menu />} />
           <Route path="/locations" exact element={<Locations />} />
           <Route path="/about" exact element={<About />} />
