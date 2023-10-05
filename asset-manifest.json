@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bagel-website/static/css/main.a4779c6b.css",
-    "main.js": "/bagel-website/static/js/main.ff9c7412.js",
+    "main.js": "/bagel-website/static/js/main.9fd5ab20.js",
     "static/media/ultimateVegan.jpg": "/bagel-website/static/media/ultimateVegan.6a108cf1f1abf8f69ee4.jpg",
     "static/media/buffaloChicken.jpg": "/bagel-website/static/media/buffaloChicken.72a9e7fff113aa22dead.jpg",
     "static/media/bagelHome2.jpg": "/bagel-website/static/media/bagelHome2.7e0b46c076ee49cf22d4.jpg",
@@ -26,10 +26,10 @@
     "static/media/pesto.jpg": "/bagel-website/static/media/pesto.26f54419dc421ce0c782.jpg",
     "index.html": "/bagel-website/index.html",
     "main.a4779c6b.css.map": "/bagel-website/static/css/main.a4779c6b.css.map",
-    "main.ff9c7412.js.map": "/bagel-website/static/js/main.ff9c7412.js.map"
+    "main.9fd5ab20.js.map": "/bagel-website/static/js/main.9fd5ab20.js.map"
   },
   "entrypoints": [
     "static/css/main.a4779c6b.css",
-    "static/js/main.ff9c7412.js"
+    "static/js/main.9fd5ab20.js"
   ]
 }
